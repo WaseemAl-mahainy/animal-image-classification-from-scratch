@@ -2,7 +2,7 @@
 
 A solo deep learning project that builds and evaluates a custom convolutional neural network (CNN) for classifying 10 animal categories from the Animals-10 dataset using TensorFlow/Keras.
 
-## Project Overview
+##  Project Overview
 
 This project focuses on image classification using a CNN built entirely from scratch rather than relying on a pretrained backbone. The goal was to understand the full deep learning pipeline for computer vision, including data preparation, augmentation, model design, hyperparameter tuning, training optimization, and evaluation.
 
